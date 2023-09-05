@@ -1,0 +1,20 @@
+[
+  {
+    "id": 6,
+    "title": "new title",
+    "description": "new description",
+    "price": 321,
+    "thumbnail": "link img",
+    "code": "mdxcdx2",
+    "stock": 12
+  },
+  {
+    "id": 2,
+    "title": "new title 2",
+    "description": "new description",
+    "price": 321,
+    "thumbnail": "link img",
+    "code": "md1sad2",
+    "stock": 12
+  }
+]
